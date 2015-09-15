@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="animation.c" open="1" top="0" tabpos="22">
+		<Cursor position="780" topLine="15" />
+	</File>
+	<File name="animation.h" open="1" top="0" tabpos="21">
+		<Cursor position="66" topLine="0" />
+	</File>
+	<File name="defs.h" open="1" top="0" tabpos="1">
+		<Cursor position="1377" topLine="17" />
+	</File>
+	<File name="draw.c" open="1" top="0" tabpos="8">
+		<Cursor position="1037" topLine="41" />
+	</File>
+	<File name="draw.h" open="1" top="0" tabpos="23">
+		<Cursor position="399" topLine="0" />
+	</File>
+	<File name="ennemi.c" open="1" top="0" tabpos="2">
+		<Cursor position="4182" topLine="109" />
+	</File>
+	<File name="ennemi.h" open="1" top="0" tabpos="20">
+		<Cursor position="430" topLine="0" />
+	</File>
+	<File name="fireballs.c" open="1" top="0" tabpos="9">
+		<Cursor position="1557" topLine="45" />
+	</File>
+	<File name="fireballs.h" open="1" top="0" tabpos="19">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="font.c" open="1" top="0" tabpos="10">
+		<Cursor position="550" topLine="25" />
+	</File>
+	<File name="font.h" open="1" top="0" tabpos="18">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="hero.c" open="1" top="0" tabpos="25">
+		<Cursor position="3125" topLine="116" />
+	</File>
+	<File name="hero.h" open="1" top="0" tabpos="26">
+		<Cursor position="366" topLine="0" />
+	</File>
+	<File name="init.c" open="1" top="0" tabpos="11">
+		<Cursor position="1117" topLine="31" />
+	</File>
+	<File name="init.h" open="1" top="0" tabpos="24">
+		<Cursor position="373" topLine="0" />
+	</File>
+	<File name="input.c" open="1" top="0" tabpos="6">
+		<Cursor position="2060" topLine="60" />
+	</File>
+	<File name="input.h" open="1" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="3">
+		<Cursor position="404" topLine="17" />
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="14">
+		<Cursor position="763" topLine="5" />
+	</File>
+	<File name="map.c" open="1" top="0" tabpos="4">
+		<Cursor position="1595" topLine="63" />
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="15">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="menu.c" open="1" top="0" tabpos="5">
+		<Cursor position="1139" topLine="47" />
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="13">
+		<Cursor position="174" topLine="0" />
+	</File>
+	<File name="sounds.c" open="1" top="0" tabpos="12">
+		<Cursor position="961" topLine="31" />
+	</File>
+	<File name="sounds.h" open="1" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="structs.h" open="1" top="1" tabpos="7">
+		<Cursor position="1133" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

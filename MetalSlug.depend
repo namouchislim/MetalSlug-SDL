@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1367939309 source:c:\sdl_projets\slim\metalslug\animation.c
+	"animation.h"
+
+1367949569 c:\sdl_projets\slim\metalslug\animation.h
+	"structs.h"
+
+1367965063 c:\sdl_projets\slim\metalslug\structs.h
+	"defs.h"
+
+1367964697 c:\sdl_projets\slim\metalslug\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+
+1367963307 source:c:\sdl_projets\slim\metalslug\draw.c
+	"draw.h"
+
+1367963364 c:\sdl_projets\slim\metalslug\draw.h
+	"structs.h"
+
+1367966667 source:c:\sdl_projets\slim\metalslug\ennemi.c
+	"ennemi.h"
+
+1367949977 c:\sdl_projets\slim\metalslug\ennemi.h
+	"structs.h"
+
+1367941363 source:c:\sdl_projets\slim\metalslug\fireballs.c
+	"fireballs.h"
+
+1367949569 c:\sdl_projets\slim\metalslug\fireballs.h
+	"structs.h"
+
+1367963291 source:c:\sdl_projets\slim\metalslug\font.c
+	"font.h"
+
+1366928503 c:\sdl_projets\slim\metalslug\font.h
+	"structs.h"
+
+1367967031 source:c:\sdl_projets\slim\metalslug\init.c
+	"init.h"
+
+1367950191 c:\sdl_projets\slim\metalslug\init.h
+	"structs.h"
+
+1367942173 source:c:\sdl_projets\slim\metalslug\input.c
+	"input.h"
+
+1366668551 c:\sdl_projets\slim\metalslug\input.h
+	"structs.h"
+
+1367966110 source:c:\sdl_projets\slim\metalslug\main.c
+	"main.h"
+
+1367965807 c:\sdl_projets\slim\metalslug\main.h
+	"structs.h"
+
+1367963352 source:c:\sdl_projets\slim\metalslug\map.c
+	"map.h"
+
+1367949798 c:\sdl_projets\slim\metalslug\map.h
+	"structs.h"
+
+1367966191 source:c:\sdl_projets\slim\metalslug\menu.c
+	"menu.h"
+
+1367963320 c:\sdl_projets\slim\metalslug\menu.h
+	"structs.h"
+
+1367964726 source:c:\sdl_projets\slim\metalslug\player.c
+	"player.h"
+
+1367949569 c:\sdl_projets\slim\metalslug\player.h
+	"structs.h"
+
+1367953262 source:c:\sdl_projets\slim\metalslug\sounds.c
+	"sounds.h"
+
+1367949569 c:\sdl_projets\slim\metalslug\sounds.h
+	"structs.h"
+
+1368045689 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\animation.c
+	"animation.h"
+
+1368040590 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\animation.h
+	"structs.h"
+
+1368045368 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\structs.h
+	"defs.h"
+
+1368041752 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\draw.c
+	"draw.h"
+
+1368046123 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\draw.h
+	"structs.h"
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\ennemi.c
+	"ennemi.h"
+
+1368045689 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\ennemi.h
+	"structs.h"
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\fireballs.c
+	"fireballs.h"
+
+1368045488 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\fireballs.h
+	"structs.h"
+
+1368045488 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\font.c
+	"font.h"
+
+1366928503 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\font.h
+	"structs.h"
+
+1368041997 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\init.c
+	"init.h"
+
+1368040590 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\init.h
+	"structs.h"
+
+1368041863 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\input.c
+	"input.h"
+
+1366668551 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\input.h
+	"structs.h"
+
+1368046480 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\main.c
+	"main.h"
+
+1368045948 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\main.h
+	"structs.h"
+
+1368045488 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\map.c
+	"map.h"
+
+1368045488 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\map.h
+	"structs.h"
+
+1368045488 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\menu.c
+	"menu.h"
+
+1368045726 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\menu.h
+	"structs.h"
+
+1368039180 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\player.c
+	"player.h"
+
+1368032176 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\player.h
+	"structs.h"
+
+1368042080 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\sounds.c
+	"sounds.h"
+
+1367949569 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\sounds.h
+	"structs.h"
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\hero.c
+	"hero.h"
+
+1368045948 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug\hero.h
+	"structs.h"
+
+1368045689 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\animation.c
+	"animation.h"
+
+1368040590 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\animation.h
+	"structs.h"
+
+1368045368 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\structs.h
+	"defs.h"
+
+1368041752 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\draw.c
+	"draw.h"
+
+1368046123 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\draw.h
+	"structs.h"
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\ennemi.c
+	"ennemi.h"
+
+1368045689 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\ennemi.h
+	"structs.h"
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\fireballs.c
+	"fireballs.h"
+
+1368045488 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\fireballs.h
+	"structs.h"
+
+1368045488 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\font.c
+	"font.h"
+
+1366928503 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\font.h
+	"structs.h"
+
+1368046366 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\hero.c
+	"hero.h"
+
+1368045948 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\hero.h
+	"structs.h"
+
+1368041997 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\init.c
+	"init.h"
+
+1368040590 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\init.h
+	"structs.h"
+
+1368041863 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\input.c
+	"input.h"
+
+1366668551 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\input.h
+	"structs.h"
+
+1368046480 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\main.c
+	"main.h"
+
+1368045948 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\main.h
+	"structs.h"
+
+1368045488 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\map.c
+	"map.h"
+
+1368045488 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\map.h
+	"structs.h"
+
+1368045488 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\menu.c
+	"menu.h"
+
+1368045726 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\menu.h
+	"structs.h"
+
+1368042080 source:c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\sounds.c
+	"sounds.h"
+
+1367949569 c:\sdl\final fin\final-clean\metalslug+(8)\metalslug-old\sounds.h
+	"structs.h"
+
+1368045689 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\animation.c
+	"animation.h"
+
+1368040590 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\animation.h
+	"structs.h"
+
+1368045368 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\structs.h
+	"defs.h"
+
+1368041752 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<time.h>
+
+1368046366 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\draw.c
+	"draw.h"
+
+1368046123 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\draw.h
+	"structs.h"
+
+1368046366 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\ennemi.c
+	"ennemi.h"
+
+1368045689 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\ennemi.h
+	"structs.h"
+
+1368046366 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\fireballs.c
+	"fireballs.h"
+
+1368045488 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\fireballs.h
+	"structs.h"
+
+1368045488 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\font.c
+	"font.h"
+
+1366928503 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\font.h
+	"structs.h"
+
+1368046366 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\hero.c
+	"hero.h"
+
+1368045948 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\hero.h
+	"structs.h"
+
+1368041997 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\init.c
+	"init.h"
+
+1368040590 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\init.h
+	"structs.h"
+
+1368041863 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\input.c
+	"input.h"
+
+1366668551 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\input.h
+	"structs.h"
+
+1368046480 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\main.c
+	"main.h"
+
+1368045948 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\main.h
+	"structs.h"
+
+1368045488 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\map.c
+	"map.h"
+
+1368045488 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\map.h
+	"structs.h"
+
+1368045488 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\menu.c
+	"menu.h"
+
+1368045726 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\menu.h
+	"structs.h"
+
+1368042080 source:d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\sounds.c
+	"sounds.h"
+
+1367949569 d:\cycle ingenieur\1er année\sem2\sdl\metalslug-old\sounds.h
+	"structs.h"
+
